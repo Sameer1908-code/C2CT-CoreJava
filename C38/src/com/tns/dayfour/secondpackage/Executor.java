@@ -1,5 +1,5 @@
-package com.tns.daytwo.secondpackage;
-import com.tns.daytwo.firstpackage.Base;
+package com.tns.dayfour.secondpackage;
+import com.tns.dayfour.firstpackage.Base;
 public class Executor {
 	public static void main(String[] args) {
 		// accessing different package class

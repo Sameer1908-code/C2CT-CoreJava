@@ -1,4 +1,4 @@
-package com.tns.daytwo.firstpackage;
+package com.tns.dayfour.firstpackage;
 
 public class Person {
 	private String personName;

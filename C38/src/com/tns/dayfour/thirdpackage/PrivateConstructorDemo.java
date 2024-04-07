@@ -1,4 +1,4 @@
-package com.tns.daytwo.thirdpackage;
+package com.tns.dayfour.thirdpackage;
 //Program to demonstrate Private Constructor and Singleton class
 public class PrivateConstructorDemo {
 	public static void main(String s[]) {
